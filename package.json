@@ -1,11 +1,17 @@
 {
   "name": "@graviola/paper-avatar",
   "main": "paper-avatar.js",
+  "version": "3.0.0",
+  "authors": [
+    "Abe90",
+    "Sebastian Tilsch"
+  ],
+  "license": "Apache-2.0",
   "dependencies": {
     "@polymer/polymer": "^3.0.0"
   },
   "devDependencies": {
-    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@polymer/iron-demo-helpers": "^3.0.2",
     "@polymer/paper-item": "^3.0.1",
     "@polymer/test-fixture": "^4.0.2",
     "@webcomponents/webcomponentsjs": "^2.0.0",
